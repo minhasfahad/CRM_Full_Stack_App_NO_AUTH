@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "http://localhost:8000/api",
+    baseURL: "https://crm-full-stack-app-no-auth.vercel.app/api",
 });
 
 // THIS IS NEW: Automatically adds the token to every request
