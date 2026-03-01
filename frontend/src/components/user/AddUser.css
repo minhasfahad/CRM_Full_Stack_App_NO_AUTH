@@ -1,0 +1,12 @@
+.userform {
+    display: flex;
+    flex-direction: column;
+}
+
+.userform h1 {
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    padding: 10px;
+    color: rgba(16, 16, 108, 0.775);
+}

@@ -1,0 +1,9 @@
+# Ignore node_modules everywhere
+**/node_modules/
+
+# Ignore environment variables
+.env
+**/.env
+
+# Ignore Mac system files (optional but good practice)
+.DS_Store

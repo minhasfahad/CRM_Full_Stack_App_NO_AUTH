@@ -1,0 +1,71 @@
+.adminbar {
+    background-color: rgb(21, 21, 38);
+    height: 100vh;
+    color: white;
+    padding: 20px;
+    /* align-items: center; */
+    /* text-align: center; */
+}
+
+.adminheading {
+    padding: 20px 0px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 25px;
+}
+
+.adminlinks li {
+    padding: 15px;
+}
+
+.adminlinks i {
+    color: rgb(145, 148, 185);
+    padding-right: 20px;
+}
+
+.backtohome {
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 50px 0px;
+    font-weight: bolder;
+}
+
+.main-content {
+    background-color: rgb(225, 234, 234);
+    margin: 20px;
+}
+
+.totalheading {
+    color: rgba(0, 0, 0, 0.577);
+    font-weight: bold;
+}
+
+.totalcount {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.total {
+    background-color: white;
+    margin: 50px 20px;
+    padding: 20px;
+    border-radius: 10px;
+    border-top: 5px solid blue;
+    /* margin-right: 0px; */
+}
+
+.area {
+    background-color: white;
+    min-height: 70vh;
+    /* Takes up most of the screen but leaves room for the cards above */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    /* Space between the stats cards and the content */
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    /* Optional: makes the white area pop */
+    overflow-y: auto;
+    /* Ensures tables don't break the layout */
+}
