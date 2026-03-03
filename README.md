@@ -1,6 +1,7 @@
 # Customer Relationship Management (CRM) System
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](crm-full-stack-app-no-auth.vercel.app)
@@ -26,6 +27,6 @@ This project is built using the **MERN** stack:
 ## 👨‍💻 Author
 **Fahad Hamza Minhas**
 * GitHub: [@minhasfahad](https://github.com/minhasfahad)
-* LinkedIn: [Fahad Hamza Minhas](www.linkedin.com/in/fahad-hamza-minhas)
+* LinkedIn: [Fahad Hamza Minhas](https://www.linkedin.com/in/fahad-hamza-minhas/)
 
 
