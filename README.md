@@ -9,7 +9,7 @@
 A full-stack Customer Relationship Management (CRM) web application developed as a project for the Advanced Web Technologies course. This system is designed to help manage customer data, track interactions, and streamline business operations.
 
 ## 🚀 Live Demo
-Experience the live application here: **[(https://crm-full-stack-app-no-auth.vercel.app/)]**
+Experience the live application here: **[CRM System on Vercel](https://crm-full-stack-app-no-auth.vercel.app/)**
 
 ## 🛠️ Tech Stack
 This project is built using the **MERN** stack:
