@@ -21,19 +21,11 @@ This project is built using the **MERN** stack:
 * **User Authentication:** Secure login and registration system for administrators and employees.
 * **Dashboard Analytics:** High-level overview of customer metrics and system activity.
 * **Customer Management:** Full CRUD (Create, Read, Update, Delete) functionality for customer profiles and contact information.
-* **Responsive Design:** Optimized for both desktop and mobile viewing.
-*(Note: Add or modify any specific features you built into your application here)*
+* **Desktop Design:** Optimized for desktop viewing only.
 
-## ⚙️ Local Installation & Setup
+## 👨‍💻 Author
+**Fahad Hamza Minhas**
+* GitHub: [@minhasfahad](https://github.com/minhasfahad)
+* LinkedIn: [Fahad Hamza Minhas](www.linkedin.com/in/fahad-hamza-minhas)
 
-To run this project locally on your machine, follow these steps:
 
-### Prerequisites
-* [Node.js](https://nodejs.org/en/) installed
-* [MongoDB](https://www.mongodb.com/) installed and running locally, or a MongoDB Atlas URI
-
-### Steps
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/](https://github.com/)<your-github-username>/<your-repo-name>.git
-   cd CRM_Full_Stack_App_NO_AUTH
