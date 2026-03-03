@@ -3,7 +3,7 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](<crm-full-stack-app-no-auth.vercel.app)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](crm-full-stack-app-no-auth.vercel.app)
 
 A full-stack Customer Relationship Management (CRM) web application developed as a project for the Advanced Web Technologies course. This system is designed to help manage customer data, track interactions, and streamline business operations.
 
@@ -36,4 +36,4 @@ To run this project locally on your machine, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/](https://github.com/)<your-github-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   cd CRM_Full_Stack_App_NO_AUTH
