@@ -1,8 +1,3 @@
-Here is a professional and structured `README.md` template tailored for your repository. It includes the MERN stack details, deployment information, and the academic context of the project.
-
-You can copy and paste this directly into your GitHub repository. Just be sure to update the placeholder links (like `<your-vercel-link>` and `<your-github-username>`) before committing!
-
-```markdown
 # Customer Relationship Management (CRM) System
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -42,48 +37,3 @@ To run this project locally on your machine, follow these steps:
    ```bash
    git clone [https://github.com/](https://github.com/)<your-github-username>/<your-repo-name>.git
    cd <your-repo-name>
-
-```
-
-2. **Install dependencies:**
-```bash
-# If you have separate client and server folders, navigate to each and run:
-npm install
-
-```
-
-
-3. **Set up Environment Variables:**
-Create a `.env` file in the root of your backend directory and add your configuration details:
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
-
-```
-
-
-4. **Run the development servers:**
-```bash
-# Start the backend server
-npm run server
-
-# Start the React frontend
-npm start
-
-```
-
-
-5. Open `http://localhost:3000` in your browser to view the application.
-
-## 👨‍💻 Author
-
-**Fahad**
-
-* GitHub: [@](https://www.google.com/search?q=https://github.com/%3Cyour-github-username%3E)
-* LinkedIn: [Fahad Hamza Minhas](https://www.google.com/search?q=your-linkedin-url)
-
-
-```
-
-```
